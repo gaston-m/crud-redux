@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "nombre": "v5ct6r5a  edit",
+      "precio": "110000",
+      "id": 17
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 11,
+      "id": 18
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 11,
+      "id": 19
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 22,
+      "id": 20
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 22,
+      "id": 21
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 22,
+      "id": 22
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 22,
+      "id": 23
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 44,
+      "id": 24
+    },
+    {
+      "nombre": "victoria",
+      "precio": 33,
+      "id": 25
+    },
+    {
+      "nombre": "v5ct6r5a ",
+      "precio": 222,
+      "id": 26
+    },
+    {
+      "nombre": "victoria",
+      "precio": 31,
+      "id": 27
+    },
+    {
+      "nombre": "victoria",
+      "precio": 332,
+      "id": 28
+    }
+  ]
+}
